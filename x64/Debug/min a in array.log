@@ -1,0 +1,3 @@
+﻿  min a in array.cpp
+C:\Users\naste\source\repos\min a in array\min a in array\min a in array.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  min a in array.vcxproj -> C:\Users\naste\source\repos\min a in array\x64\Debug\min a in array.exe
